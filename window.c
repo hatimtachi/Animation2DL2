@@ -1,15 +1,4 @@
-/*!\file window.c
- *
- * \brief Utilisation de GL4Dummies pour réaliser une démo.
- *
- * Ici est géré l'ouverture de la fenêtre ainsi que l'ordonnancement
- * des animations. Apriori les seuls éléments à modifier ici lors de
- * votre intégration sont le tableau static \ref _animations et le nom
- * du fichier audio à lire.
- *
- * \author Farès BELHADJ, amsi@ai.univ-paris8.fr
- * \date May 05, 2014 - February 26, 2016
- */
+
 #include <stdlib.h>
 #include <GL4D/gl4du.h>
 #include <GL4D/gl4dh.h>
